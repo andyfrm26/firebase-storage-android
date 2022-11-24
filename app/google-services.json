@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "442661316660",
+    "firebase_url": "https://fir-cloudstorage-f2be2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-cloudstorage-f2be2",
+    "storage_bucket": "fir-cloudstorage-f2be2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442661316660:android:8e8758125c14c5efa80261",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442661316660-ghj2odoe05oc61ekb2dmh07lmoeeskso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasecloudstorage",
+            "certificate_hash": "9e97f11b46eef91ea9d1a7d20da5ca7f8a9e74d7"
+          }
+        },
+        {
+          "client_id": "442661316660-kr1ggbl6e71uesa3islcpjv3l90qv324.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBshGZYk_Q99duckCygLRf1I511yHU82rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442661316660-kr1ggbl6e71uesa3islcpjv3l90qv324.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
